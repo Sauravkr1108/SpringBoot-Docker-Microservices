@@ -1,0 +1,5 @@
+com\techie\microservices\notification\config\ObservabilityConfig.class
+com\techie\microservices\order\event\OrderPlacedEvent$Builder.class
+com\techie\microservices\order\event\OrderPlacedEvent.class
+com\techie\microservices\notification\NotificationServiceApplication.class
+com\techie\microservices\notification\service\NotificationService.class
